@@ -1,0 +1,11 @@
+Dear friends,
+
+I'm excited to announce our new deeplearning.ai Specialization, TensorFlow: From Basics to Mastery, in collaboration with the TensorFlow team at Google.
+
+If you want to build scalable AI-powered algorithms, you need to understand how to use the tools to build them. This course will teach you best practices for using TensorFlow, a popular open-source framework for machine learning.
+
+The Machine Learning course and the Deep Learning Specialization teach the most important foundational principles of machine learning and deep learning. The deeplearning.ai TensorFlow Specialization teaches you how to use TensorFlow to implement those principles so that you can start building and applying scalable models to real-world problems. To develop a deeper understanding of how neural networks work, we recommend that you take the Deep Learning Specialization.
+
+Course 1 of the deeplearning.ai TensorFlow Specialization is now available on Coursera. The remaining courses will be released over the next several months.
+
+Happy learning!
